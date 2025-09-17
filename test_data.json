@@ -1,0 +1,25 @@
+{
+  "passage": "The concept of artificial intelligence (AI) has evolved significantly since its inception in the 1950s. Early AI systems were rule-based and limited to specific domains, but modern AI, particularly machine learning, has revolutionized numerous industries. From healthcare diagnostics to autonomous vehicles, AI applications are becoming increasingly sophisticated and widespread.\n\nHowever, this rapid advancement has sparked debates about the ethical implications of AI. Critics argue that AI systems may perpetuate biases present in their training data, leading to discriminatory outcomes in areas such as hiring, lending, and criminal justice. Additionally, there are concerns about job displacement as AI automation replaces human workers in various sectors.\n\nDespite these challenges, many experts believe that AI, when properly regulated and developed, can bring tremendous benefits to society. Dr. Sarah Chen, a leading AI researcher at Stanford University, emphasizes that 'the key lies in developing AI systems that augment human capabilities rather than replace them entirely.' She advocates for transparent AI development processes and robust ethical frameworks to ensure that AI serves the greater good.",
+  
+  "questions": [
+    "What is the main difference between early AI systems and modern AI?",
+    "According to the passage, what are two major concerns about AI development?",
+    "What does Dr. Sarah Chen suggest as the key to beneficial AI development?",
+    "Which of the following is NOT mentioned as an application of modern AI?",
+    "What is the author's overall attitude toward AI development?"
+  ],
+  
+  "answers": [
+    "B",
+    "C", 
+    "A",
+    "D",
+    "C"
+  ],
+  
+  "user_questions": [
+    "为什么第2题的答案是C而不是其他选项？",
+    "第4题的D选项具体指什么？",
+    "能详细解释一下第5题的解题思路吗？"
+  ]
+}
