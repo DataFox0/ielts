@@ -68,7 +68,7 @@ class IELTSReadingAgent:
                 model=self.model_name,
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0.3,
-                max_tokens=4000
+                max_tokens=10000
             )
             
             result = response.choices[0].message.content
@@ -149,8 +149,8 @@ def main():
                 questions = [q.strip() for q in questions_input.strip().split('\n') if q.strip()]
                 answers = [a.strip() for a in answers_input.strip().split('\n') if a.strip()]
                 
-                if len(questions) != len(answers):
-                    st.error("题目数量和答案数量不匹配！")
+                # if len(questions) != len(answers):
+                #     st.error("题目数量和答案数量不匹配！")
                     # return
                 
                 # 分析阅读材料
